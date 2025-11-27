@@ -13,5 +13,11 @@ class getinput {
         System.out.println(c);
         System.out.println("Performing arithmetic operations:");
         System.out.println(+a + b);
+        System.out.println(+a - b);
+        System.out.println(+a * b);
+        System.out.println(+a / b);
+        System.out.println(+a % b)
+        int a=10;
+        System.out.println(++a);
         
 }
