@@ -6,3 +6,5 @@ class sample {
         System.out.println(sum);
     }
 }
+
+//
