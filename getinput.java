@@ -7,8 +7,11 @@ class getinput {
         int a = obj.nextInt();
         int b = obj.nextInt();
         int c = obj.nextInt();
+        System.out.println("Get the input from the user:");
+        System.out.println(a);
         System.out.println(b);
         System.out.println(c);
-        System.out.println(a);
-    }
+        System.out.println("Performing arithmetic operations:");
+        System.out.println(+a + b);
+        
 }
